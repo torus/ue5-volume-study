@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ue4-builder": "file:make"
+  }
+}
